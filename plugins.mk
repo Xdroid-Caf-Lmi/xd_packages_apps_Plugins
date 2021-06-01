@@ -2,4 +2,5 @@ PRODUCT_PACKAGES += \
 	AospPanel \
 	CompactPanel \
 	TiledPanel \
-	MiuiCompactPanel
+	MiuiCompactPanel \
+	ShapeShiftPanel
