@@ -1,11 +1,10 @@
 # POSP SystemUI Plugins
 
-This repository (currently) houses 4 different SystemUI Volume Panel Plugins.
+This repository (currently) houses 2 different SystemUI Volume Panel Plugins.
 To build and use these as intended, you may need to pick some changes from our [frameworks/base](https://github.com/PotatoProject/frameworks_base).
 
 Then, compile the following modules:
 ```
-AospPanel
 CompactPanel
 TiledPanel
 ```
